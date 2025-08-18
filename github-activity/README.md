@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-heya! I am building projects from roadmap.sh
-=======
+
 # Github Activity
 
 <code>[https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)</code>
@@ -14,21 +12,17 @@ heya! I am building projects from roadmap.sh
 <code> >>python github-activity.py </code>
 
 #### Output
-`
-<code> 
-github-activity django
+
+<code> >>github-activity django </code>
+
+<pre>
 - starred django/django
-- starred django/daphne
 - opened pull request on django/django
 - starred django/djangosnippets.org
 - commented on issue on django/dsf-working-groups
-- starred django/django
-- commented on issue on django/dsf-working-groups
-- commented on issue on django/dsf-working-groups
-- starred django/django
 - ...
-</code>
-`
+</pre>
 
 
->>>>>>> 44283ae (github-activity project)
+
+This project is a part of backend projects on roadmap.sh, [Click here](https://roadmap.sh/projects/github-user-activity)
